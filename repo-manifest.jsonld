@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/peewee_migrate/commit/1d089f5eee44b5d4f45fd58616436ed29cb8393c",
       "git:hexsha": "1d089f5eee44b5d4f45fd58616436ed29cb8393c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.3.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.3.0",
+      "repolex:parsedAt": "2026-10-20T20:18:12.624369+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/peewee_migrate/commit/9d3041ddd051c493e9613f3e7481e665c2f41bac",
