@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "peewee_migrate",
+  "versions": [
+    {
+      "commit": "1d089f5eee44b5d4f45fd58616436ed29cb8393c",
+      "tag": "2.3.0",
+      "parsed_at": "2026-10-20T20:18:12.625558+00:00"
+    }
+  ]
+}
